@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Olá! Seja bem vindo ao meu perfil ✌️</h1>
-<h2 align="center">Desenvolvedor Front End Developer e Back End Developer (JavaScript | TypeScript | Node.js | React | React Native)</h2>
+<h2 align="center">Desenvolvedor Front End e Back End (JavaScript | TypeScript | Node.js | React | React Native)</h2>
 
 
 ### &nbsp;Formação Acadêmica
